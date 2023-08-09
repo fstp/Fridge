@@ -1,5 +1,5 @@
-defmodule PetalBoilerplateWeb.FormLive do
-  use PetalBoilerplateWeb, :live_view
+defmodule FridgeWeb.FormLive do
+  use FridgeWeb, :live_view
 
   @impl true
   def mount(_params, _session, socket) do

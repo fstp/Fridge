@@ -1,5 +1,5 @@
-defmodule PetalBoilerplateWeb.PageControllerTest do
-  use PetalBoilerplateWeb.ConnCase
+defmodule FridgeWeb.PageControllerTest do
+  use FridgeWeb.ConnCase
 
   test "GET /", %{conn: conn} do
     conn = get(conn, ~p"/")

@@ -1,12 +1,12 @@
-defmodule PetalBoilerplateWeb.ErrorHTML do
-  use PetalBoilerplateWeb, :html
+defmodule FridgeWeb.ErrorHTML do
+  use FridgeWeb, :html
 
   # If you want to customize your error pages,
   # uncomment the embed_templates/1 call below
   # and add pages to the error directory:
   #
-  #   * lib/petal_boilerplate_web/controllers/error_html/404.html.heex
-  #   * lib/petal_boilerplate_web/controllers/error_html/500.html.heex
+  #   * lib/fridge_web/controllers/error_html/404.html.heex
+  #   * lib/fridge_web/controllers/error_html/500.html.heex
   #
   # embed_templates "error_html/*"
 

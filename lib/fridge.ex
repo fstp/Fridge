@@ -1,6 +1,6 @@
-defmodule PetalBoilerplate do
+defmodule Fridge do
   @moduledoc """
-  PetalBoilerplate keeps the contexts that define your domain
+  Fridge keeps the contexts that define your domain
   and business logic.
 
   Contexts are also responsible for managing your data, regardless
