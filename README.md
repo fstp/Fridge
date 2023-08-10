@@ -27,3 +27,9 @@ A user should be able to:
 - Remove an item from the fridge
 - Update an item in the fridge
 - Filter the list in different ways *(TODO: to be expanded)*
+
+## Build instructions
+The Ecto SQLite3 Adapter library is depending on Exqlite which requires some build tools to be available on your system if you are using Windows.
+Check the build instructions here for how to compile the dependencies:
+    - https://github.com/elixir-sqlite/exqlite/blob/main/guides/windows.md
+    - https://github.com/elixir-sqlite/exqlite

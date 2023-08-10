@@ -52,6 +52,7 @@ defmodule Fridge.MixProject do
       {:jason, "~> 1.2"},
       {:plug_cowboy, "~> 2.5"},
       {:petal_components, "~> 1.3"},
+      {:ecto_sqlite3, "~> 0.10"},
     ]
   end
 
